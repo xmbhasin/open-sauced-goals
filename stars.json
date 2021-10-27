@@ -1,51 +1,51 @@
 [
   {
     "full_name": "nextapps-de/winbox",
-    "stargazers_count": 5096,
-    "open_issues_count": 36,
-    "forks_count": 128
+    "stargazers_count": 5128,
+    "open_issues_count": 30,
+    "forks_count": 130
   },
   {
     "full_name": "MunGell/awesome-for-beginners",
-    "stargazers_count": 35845,
-    "open_issues_count": 62,
-    "forks_count": 5254
+    "stargazers_count": 35953,
+    "open_issues_count": 65,
+    "forks_count": 5275
   },
   {
     "full_name": "launchbadge/sqlx",
-    "stargazers_count": 4745,
-    "open_issues_count": 324,
-    "forks_count": 464
+    "stargazers_count": 4767,
+    "open_issues_count": 331,
+    "forks_count": 468
   },
   {
     "full_name": "zeek/zeek",
-    "stargazers_count": 4057,
-    "open_issues_count": 91,
+    "stargazers_count": 4062,
+    "open_issues_count": 92,
     "forks_count": 998
   },
   {
     "full_name": "qTox/qTox",
-    "stargazers_count": 3763,
-    "open_issues_count": 648,
-    "forks_count": 883
+    "stargazers_count": 3766,
+    "open_issues_count": 630,
+    "forks_count": 886
   },
   {
     "full_name": "hackmdio/codimd",
-    "stargazers_count": 7482,
-    "open_issues_count": 292,
-    "forks_count": 915
+    "stargazers_count": 7488,
+    "open_issues_count": 290,
+    "forks_count": 916
   },
   {
     "full_name": "open-sauced/open-sauced",
-    "stargazers_count": 501,
+    "stargazers_count": 503,
     "open_issues_count": 27,
-    "forks_count": 145
+    "forks_count": 146
   },
   {
     "full_name": "thedevdojo/wave",
-    "stargazers_count": 3197,
+    "stargazers_count": 3209,
     "open_issues_count": 5,
-    "forks_count": 290
+    "forks_count": 292
   },
   {
     "full_name": "rudymatela/fitspec",
@@ -57,12 +57,12 @@
     "full_name": "kowainik/relude",
     "stargazers_count": 519,
     "open_issues_count": 9,
-    "forks_count": 66
+    "forks_count": 65
   },
   {
     "full_name": "harc/ohm",
-    "stargazers_count": 3908,
-    "open_issues_count": 40,
+    "stargazers_count": 3914,
+    "open_issues_count": 33,
     "forks_count": 183
   },
   {
@@ -73,37 +73,37 @@
   },
   {
     "full_name": "krispo/awesome-haskell",
-    "stargazers_count": 2503,
+    "stargazers_count": 2512,
     "open_issues_count": 12,
     "forks_count": 156
   },
   {
     "full_name": "joernio/joern",
     "stargazers_count": 639,
-    "open_issues_count": 35,
-    "forks_count": 96
+    "open_issues_count": 37,
+    "forks_count": 97
   },
   {
     "full_name": "enkimute/ganja.js",
     "stargazers_count": 1281,
     "open_issues_count": 44,
-    "forks_count": 82
+    "forks_count": 81
   },
   {
     "full_name": "digitallyinduced/ihp",
-    "stargazers_count": 2452,
-    "open_issues_count": 145,
-    "forks_count": 123
+    "stargazers_count": 2477,
+    "open_issues_count": 149,
+    "forks_count": 124
   },
   {
     "full_name": "artipie/artipie",
-    "stargazers_count": 246,
-    "open_issues_count": 69,
-    "forks_count": 29
+    "stargazers_count": 247,
+    "open_issues_count": 68,
+    "forks_count": 30
   },
   {
     "full_name": "Drugoy/Autohotkey-scripts-.ahk",
-    "stargazers_count": 333,
+    "stargazers_count": 335,
     "open_issues_count": 4,
     "forks_count": 151
   },
@@ -115,7 +115,7 @@
   },
   {
     "full_name": "lifting-bits/mcsema",
-    "stargazers_count": 2144,
+    "stargazers_count": 2152,
     "open_issues_count": 109,
     "forks_count": 306
   },
@@ -127,19 +127,19 @@
   },
   {
     "full_name": "SpaceVim/SpaceVim",
-    "stargazers_count": 17329,
-    "open_issues_count": 103,
-    "forks_count": 1363
+    "stargazers_count": 17343,
+    "open_issues_count": 100,
+    "forks_count": 1364
   },
   {
     "full_name": "JelteF/derive_more",
-    "stargazers_count": 762,
+    "stargazers_count": 763,
     "open_issues_count": 43,
-    "forks_count": 62
+    "forks_count": 63
   },
   {
     "full_name": "junegunn/vim-peekaboo",
-    "stargazers_count": 945,
+    "stargazers_count": 949,
     "open_issues_count": 31,
     "forks_count": 33
   },
@@ -151,25 +151,25 @@
   },
   {
     "full_name": "dstotijn/hetty",
-    "stargazers_count": 3528,
+    "stargazers_count": 3529,
     "open_issues_count": 29,
-    "forks_count": 190
+    "forks_count": 189
   },
   {
     "full_name": "ryohey/signal",
-    "stargazers_count": 230,
-    "open_issues_count": 14,
+    "stargazers_count": 231,
+    "open_issues_count": 12,
     "forks_count": 15
   },
   {
     "full_name": "James-Yu/LaTeX-Workshop",
-    "stargazers_count": 7848,
-    "open_issues_count": 18,
-    "forks_count": 392
+    "stargazers_count": 7855,
+    "open_issues_count": 19,
+    "forks_count": 395
   },
   {
     "full_name": "learnbyexample/scripting_course",
-    "stargazers_count": 956,
+    "stargazers_count": 961,
     "open_issues_count": 0,
     "forks_count": 143
   },
